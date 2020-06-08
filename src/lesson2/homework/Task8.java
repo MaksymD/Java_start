@@ -8,7 +8,7 @@ public class Task8 {
     public static void main(String[] args) {
 
         int a = 3;
-        int a = 10;
+        int a = 10;oiufgvjsediesajuhfn
         int b = 6;
         int b = 12;
         int sum = 1 + a + b;
