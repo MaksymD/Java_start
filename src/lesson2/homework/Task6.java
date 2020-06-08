@@ -8,8 +8,8 @@ Make changes to the program so that the message was "Happy Friends!".
 public class Task6 {
 
     public static void main(String[] args) {
-        String name = null;
-        String text = "Hello, " + name + "!";
+        String name = "Friends";
+        String text = "Happy " + name + "!";
         System.out.println(text);
     }
 }

@@ -16,15 +16,15 @@ public class Task3 {
         int a = 3;
         int b = 2;
 
-        System.out.print("two");
+        //System.out.print("two");
         System.out.print(b);
         System.out.print(" plus ");
-        System.out.print(" minus ");
+        //System.out.print(" minus ");
         System.out.print(a);
-        System.out.print("tree");
+        //System.out.print("tree");
         System.out.print(" equals ");
-        System.out.print(" is ");
-        System.out.print("five");
+        //System.out.print(" is ");
+        //System.out.print("five");
         System.out.print(a + b);
     }
 }

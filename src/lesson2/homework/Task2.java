@@ -8,6 +8,10 @@ name типа String, age типа int и city типа String.
 */
 public class Task2 {
     public static void main(String[] args) {
+        String a = "Thomas is cool";
+        int b = 13;
+        String c = "Wien";
+        System.out.println(a+" "+b+" "+c+" ");
 
     }
 }
