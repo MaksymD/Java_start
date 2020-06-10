@@ -20,7 +20,7 @@ public class Task9 {
 
     public static void main(String[] args) {
 
-        int result = +a + b + c + d;
+        int result = d + b - c - a ;
 
         System.out.println(result);
 

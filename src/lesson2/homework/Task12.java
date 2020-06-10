@@ -8,10 +8,10 @@ Declare / Correct the missing variables and comment out those that are not used 
 public class Task12 {
     public static void main(String[] args) {
 
-/*        String s = "15";
+/*       //String s = "15";
         a = 5;
-        int z = 18;
-        int d = 18;
+        //int z = 18;
+        //int d = 18;
         c = a + d;
         b = " is better than ";
 
