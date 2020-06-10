@@ -6,6 +6,7 @@ package lesson2.homework;
 
 public class Task8 {
     public static void main(String[] args) {
+/*
 
         int a = 3;
         int a = 10;
@@ -17,6 +18,7 @@ public class Task8 {
         int sum = 4 + a + b;
 
         System.out.println("sum = " + sum);
+*/
 
     }
 }
